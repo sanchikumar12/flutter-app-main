@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "830403172557",
+    "project_id": "mini-app-95e30",
+    "storage_bucket": "mini-app-95e30.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:830403172557:android:256c5c213aa403fe29f184",
+        "android_client_info": {
+          "package_name": "com.webigrate.shagun"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "830403172557-p38p7afsmiecrls9e9d240bh9ft32qa8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.webigrate.shagun",
+            "certificate_hash": "519d2688c9553547c38114a0f9d8576943134f10"
+          }
+        },
+        {
+          "client_id": "830403172557-un4l7781s9oula2d18onvqpa9b06fhtb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.webigrate.shagun",
+            "certificate_hash": "1c3880e67fb953c795fde718b70b7d68d7a7d8fb"
+          }
+        },
+        {
+          "client_id": "830403172557-q7ch15f227p33cer2ev4o9ps4399jc1k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmrCvC6VXG_O-lOKazAHBNFca1ADIJZtk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "830403172557-q7ch15f227p33cer2ev4o9ps4399jc1k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
